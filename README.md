@@ -1,8 +1,8 @@
-Based on tornado-console but removing the use of pip as an API.
-(likely introduced by what cookiecutter generates)
-
 # tornado-console-2
 Provide a live, interactive Python console within a Tornado application.
+
+Based on tornado-console but removing the use of pip as an API.
+(likely introduced by what cookiecutter generates)
 
 Example:
 
