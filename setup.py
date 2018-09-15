@@ -8,7 +8,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="tornado_console2",
+    name="tornado-console-2",
     version="2.0.0",
     author="dangerwillrobinsondanger",
     author_email="dangerwillrobinsondanger@gmail.com",
